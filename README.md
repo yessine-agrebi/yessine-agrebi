@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ragnar-codes
+- 👋 Hi, I’m Yessine Agrebi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ragnar-codes/ragnar-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
