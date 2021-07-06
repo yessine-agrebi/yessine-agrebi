@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yessine Agrebi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React Js
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ragnar-codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
