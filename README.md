@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ragnar-codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ragnar-codes&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
