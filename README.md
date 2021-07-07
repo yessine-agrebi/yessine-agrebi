@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ragnar-codes&color=blue)
+
 - 👋 Hi, I’m Yessine Agrebi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js
