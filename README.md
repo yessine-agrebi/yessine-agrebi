@@ -5,7 +5,7 @@
 <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="dev" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="ragnar-codes" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce App**
+- 🔭 I’m currently working on **E-Commerce App | MEAN stack**
 
 - 🌱 I’m currently learning **MEAN Stack**
 
