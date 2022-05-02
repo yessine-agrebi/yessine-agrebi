@@ -1,5 +1,3 @@
-
-<img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="dev" align="center" width="1400px">
 <h1 align="center">Hi 👋, I'm Yessine Agrebi</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="dev" align="right" width="400px">
