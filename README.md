@@ -16,7 +16,7 @@
 - 📫 How to reach me **yessine.ag@gmail.com**
 
 - ⚡ Fun fact **I make jokes about myself**
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnar-codes&" alt="ragnar-codes" /></p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragnar-codes&show_icons=true&locale=en" alt="ragnar-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnar-codes&" alt="ragnar-codes" /></p>
+
