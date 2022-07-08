@@ -3,19 +3,19 @@
 <img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="dev" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragnar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="ragnar-codes" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce App | MEAN stack**
+- 🔭 I’m currently working on **E-Commerce App | MERN stack**
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Angular**
+- 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **JavaScript, PHP, HTML, CSS, Bootstrap**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **yessine.ag@gmail.com**
 
-- ⚡ Fun fact **I make jokes about myself**
+- ⚡ Fun fact **I debug code when i'm sleeping**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragnar-codes&" alt="ragnar-codes" /></p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
