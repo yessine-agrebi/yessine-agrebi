@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to upload files with multer in your MERN App](https://dev.to/ragnarcodes/how-to-upload-files-with-multer-in-your-mern-app-jbg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
