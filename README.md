@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Used Git Commands](https://dev.to/ragnarcodes/most-used-git-commands-5b4)
 - [How to upload files with multer in your MERN App](https://dev.to/ragnarcodes/how-to-upload-files-with-multer-in-your-mern-app-jbg)
 <!-- BLOG-POST-LIST:END -->
 
