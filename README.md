@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/yessineagrebi" target="blank"><img src="https://img.shields.io/twitter/follow/yessineagrebi?logo=twitter&style=for-the-badge" alt="yessineagrebi" /></a> </p>
 
-- 🔭 I’m currently working on [Library Management App](https://github.com/yessine-agrebi/Library-Management-App)
+- 🔭 I’m currently working on [Giftily.tn](https://github.com/yessine-agrebi/Next-Giftily)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 🤝 I’m looking for help with **ReactJs**
-
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript | React | Nodejs/Express**
 
 - 📫 How to reach me **yessine.ag@gmail.com**
 
