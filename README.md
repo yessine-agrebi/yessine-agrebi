@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yessine Agrebi</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia</h3>
 
-<img src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" alt="dev" align="center" width="400px">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessine-agrebi&label=Profile%20views&color=0e75b6&style=flat" alt="yessine-agrebi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessine-agrebi" alt="yessine-agrebi" /></a> </p>
