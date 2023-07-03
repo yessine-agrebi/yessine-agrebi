@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yessine-agrebi&show_icons=true&locale=en" alt="yessine-agrebi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yessine-agrebi&" alt="yessine-agrebi" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yessine-agrebi)](https://git.io/streak-stats)
