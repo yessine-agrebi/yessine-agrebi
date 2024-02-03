@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yessine Agrebi</h1>
-<h3 align="center">A passionate FullStack developer from Tunisia</h3>
+<h3 align="center">A passionate FullStack Web Developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessine-agrebi&label=Profile%20views&color=0e75b6&style=flat" alt="yessine-agrebi" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yessineagrebi" target="blank"><img src="https://img.shields.io/twitter/follow/yessineagrebi?logo=twitter&style=for-the-badge" alt="yessineagrebi" /></a> </p>
 
-- 🔭 I’m currently working on **GPS Tracker Platform**
+- 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Nextjs**
-
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 🌱 I’m currently learning **Nextjs/SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yessine-agrebi](https://github.com/yessine-agrebi)
 
