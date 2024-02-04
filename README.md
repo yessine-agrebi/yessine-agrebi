@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessine-agrebi&label=Profile%20views&color=0e75b6&style=flat" alt="yessine-agrebi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessine-agrebi" alt="yessine-agrebi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessine-agrebi&column=5" alt="yessine-agrebi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yessineagrebi" target="blank"><img src="https://img.shields.io/twitter/follow/yessineagrebi?logo=twitter&style=for-the-badge" alt="yessineagrebi" /></a> </p>
 
