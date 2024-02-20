@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Nextjs/SpringBoot**
+- 🌱 I’m currently learning **Nextjs/Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yessine-agrebi](https://github.com/yessine-agrebi)
 
-- 💬 Ask me about **React,Nodejs,ExpressJs,Javascript**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **yessine.ag@gmail.com**
 
