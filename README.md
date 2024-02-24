@@ -22,8 +22,5 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yessine-agrebi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
