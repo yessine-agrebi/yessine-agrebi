@@ -23,4 +23,10 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 ![](https://github-contributor-stats.vercel.app/api?username=yessine-agrebi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:waka-->
+
+```txt
+C#           2 mins          ██████████████████▓░░░░░░   74.60 %
+TypeScript   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+```
+
 <!--END_SECTION:waka-->
