@@ -25,11 +25,11 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 3 mins    ███████████████████░░░░░░   76.04 %
-C#           1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Binary       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-CSHTML       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-XML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+TypeScript   7 hrs 20 mins   ██████████████████░░░░░░░   72.02 %
+C#           1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Binary       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+CSHTML       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+XML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
