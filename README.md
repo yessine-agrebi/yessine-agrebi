@@ -25,11 +25,9 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 55 mins   ██████████████████████▓░░   90.48 %
-PHP          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   5 hrs 47 mins   ████████████████████████▒   97.58 %
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
