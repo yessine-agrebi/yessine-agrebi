@@ -25,11 +25,11 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      4 hrs 19 mins   ███████████▒░░░░░░░░░░░░░   45.16 %
-YAML     1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-Docker   1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Smarty   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Other    30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+PHP          3 hrs 15 mins   ██████████████▓░░░░░░░░░░   59.29 %
+Smarty       52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+YAML         37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
