@@ -25,7 +25,7 @@ Hi, I'm Yessine! I'm a passionate Full Stack Developer with a keen interest in b
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 51 mins   █████████████████████████   100.00 %
+JavaScript   4 hrs 13 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
